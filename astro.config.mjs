@@ -6,7 +6,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://noisk8.github.io,
-  base: '/profile',
-  integrations: [mdx(), sitemap(), tailwind()]
+ site: 'https://astro-modern-personal-website.netlify.app',
+ integrations: [mdx(), sitemap(), tailwind()]
 });
