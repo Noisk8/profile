@@ -7,5 +7,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://noisk8.github.io,
+  base: '/profile',
   integrations: [mdx(), sitemap(), tailwind()]
 });
