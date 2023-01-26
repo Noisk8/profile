@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "LIKUSCUZA Y UNDER GRANO"
 description: "Cortometraje de ficción y Documental presentados en el lanzamiento de Platohedro 2006"
-pubDate: "enero del 2015"
+pubDate: "enero del 2023"
 heroImage: "/likuscuza.jpg"
 ---
 

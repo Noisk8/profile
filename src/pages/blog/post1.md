@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 title: "LABSURLAB I II"
 description: "Encuentro hacker sur global, en Medellín,Colombia en 2011 y Quito, Ecuedor 2012"
-pubDate: "Sep 10 2022"
+pubDate: "Ene 10 2022"
 heroImage: "/post_img.webp"
 ---
 
